@@ -1,0 +1,45 @@
+C:\Users\Dell User\Desktop\ESTUDIOS\C#\ITLA_Projects\AREA-DE-TRABAJO-ARCADE\ArcadePROJECT\bin\Debug\net6.0\ArcadePROJECT.exe
+C:\Users\Dell User\Desktop\ESTUDIOS\C#\ITLA_Projects\AREA-DE-TRABAJO-ARCADE\ArcadePROJECT\bin\Debug\net6.0\ArcadePROJECT.deps.json
+C:\Users\Dell User\Desktop\ESTUDIOS\C#\ITLA_Projects\AREA-DE-TRABAJO-ARCADE\ArcadePROJECT\bin\Debug\net6.0\ArcadePROJECT.runtimeconfig.json
+C:\Users\Dell User\Desktop\ESTUDIOS\C#\ITLA_Projects\AREA-DE-TRABAJO-ARCADE\ArcadePROJECT\bin\Debug\net6.0\ArcadePROJECT.dll
+C:\Users\Dell User\Desktop\ESTUDIOS\C#\ITLA_Projects\AREA-DE-TRABAJO-ARCADE\ArcadePROJECT\bin\Debug\net6.0\ArcadePROJECT.pdb
+C:\Users\Dell User\Desktop\ESTUDIOS\C#\ITLA_Projects\AREA-DE-TRABAJO-ARCADE\ArcadePROJECT\obj\Debug\net6.0\ArcadePROJECT.csproj.AssemblyReference.cache
+C:\Users\Dell User\Desktop\ESTUDIOS\C#\ITLA_Projects\AREA-DE-TRABAJO-ARCADE\ArcadePROJECT\obj\Debug\net6.0\ArcadePROJECT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell User\Desktop\ESTUDIOS\C#\ITLA_Projects\AREA-DE-TRABAJO-ARCADE\ArcadePROJECT\obj\Debug\net6.0\ArcadePROJECT.AssemblyInfoInputs.cache
+C:\Users\Dell User\Desktop\ESTUDIOS\C#\ITLA_Projects\AREA-DE-TRABAJO-ARCADE\ArcadePROJECT\obj\Debug\net6.0\ArcadePROJECT.AssemblyInfo.cs
+C:\Users\Dell User\Desktop\ESTUDIOS\C#\ITLA_Projects\AREA-DE-TRABAJO-ARCADE\ArcadePROJECT\obj\Debug\net6.0\ArcadePROJECT.csproj.CoreCompileInputs.cache
+C:\Users\Dell User\Desktop\ESTUDIOS\C#\ITLA_Projects\AREA-DE-TRABAJO-ARCADE\ArcadePROJECT\obj\Debug\net6.0\ArcadePROJECT.dll
+C:\Users\Dell User\Desktop\ESTUDIOS\C#\ITLA_Projects\AREA-DE-TRABAJO-ARCADE\ArcadePROJECT\obj\Debug\net6.0\refint\ArcadePROJECT.dll
+C:\Users\Dell User\Desktop\ESTUDIOS\C#\ITLA_Projects\AREA-DE-TRABAJO-ARCADE\ArcadePROJECT\obj\Debug\net6.0\ArcadePROJECT.pdb
+C:\Users\Dell User\Desktop\ESTUDIOS\C#\ITLA_Projects\AREA-DE-TRABAJO-ARCADE\ArcadePROJECT\obj\Debug\net6.0\ArcadePROJECT.genruntimeconfig.cache
+C:\Users\Dell User\Desktop\ESTUDIOS\C#\ITLA_Projects\AREA-DE-TRABAJO-ARCADE\ArcadePROJECT\obj\Debug\net6.0\ref\ArcadePROJECT.dll
+C:\Users\scris\Desktop\ESTUDIOS\LENGUAJES\C#\ITLA_Projects\AREA-DE-TRABAJO-ARCADE\ArcadePROJECT\bin\Debug\net6.0\ArcadePROJECT.exe
+C:\Users\scris\Desktop\ESTUDIOS\LENGUAJES\C#\ITLA_Projects\AREA-DE-TRABAJO-ARCADE\ArcadePROJECT\bin\Debug\net6.0\ArcadePROJECT.deps.json
+C:\Users\scris\Desktop\ESTUDIOS\LENGUAJES\C#\ITLA_Projects\AREA-DE-TRABAJO-ARCADE\ArcadePROJECT\bin\Debug\net6.0\ArcadePROJECT.runtimeconfig.json
+C:\Users\scris\Desktop\ESTUDIOS\LENGUAJES\C#\ITLA_Projects\AREA-DE-TRABAJO-ARCADE\ArcadePROJECT\bin\Debug\net6.0\ArcadePROJECT.dll
+C:\Users\scris\Desktop\ESTUDIOS\LENGUAJES\C#\ITLA_Projects\AREA-DE-TRABAJO-ARCADE\ArcadePROJECT\bin\Debug\net6.0\ArcadePROJECT.pdb
+C:\Users\scris\Desktop\ESTUDIOS\LENGUAJES\C#\ITLA_Projects\AREA-DE-TRABAJO-ARCADE\ArcadePROJECT\obj\Debug\net6.0\ArcadePROJECT.csproj.AssemblyReference.cache
+C:\Users\scris\Desktop\ESTUDIOS\LENGUAJES\C#\ITLA_Projects\AREA-DE-TRABAJO-ARCADE\ArcadePROJECT\obj\Debug\net6.0\ArcadePROJECT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\scris\Desktop\ESTUDIOS\LENGUAJES\C#\ITLA_Projects\AREA-DE-TRABAJO-ARCADE\ArcadePROJECT\obj\Debug\net6.0\ArcadePROJECT.AssemblyInfoInputs.cache
+C:\Users\scris\Desktop\ESTUDIOS\LENGUAJES\C#\ITLA_Projects\AREA-DE-TRABAJO-ARCADE\ArcadePROJECT\obj\Debug\net6.0\ArcadePROJECT.AssemblyInfo.cs
+C:\Users\scris\Desktop\ESTUDIOS\LENGUAJES\C#\ITLA_Projects\AREA-DE-TRABAJO-ARCADE\ArcadePROJECT\obj\Debug\net6.0\ArcadePROJECT.csproj.CoreCompileInputs.cache
+C:\Users\scris\Desktop\ESTUDIOS\LENGUAJES\C#\ITLA_Projects\AREA-DE-TRABAJO-ARCADE\ArcadePROJECT\obj\Debug\net6.0\ArcadePROJECT.dll
+C:\Users\scris\Desktop\ESTUDIOS\LENGUAJES\C#\ITLA_Projects\AREA-DE-TRABAJO-ARCADE\ArcadePROJECT\obj\Debug\net6.0\refint\ArcadePROJECT.dll
+C:\Users\scris\Desktop\ESTUDIOS\LENGUAJES\C#\ITLA_Projects\AREA-DE-TRABAJO-ARCADE\ArcadePROJECT\obj\Debug\net6.0\ArcadePROJECT.pdb
+C:\Users\scris\Desktop\ESTUDIOS\LENGUAJES\C#\ITLA_Projects\AREA-DE-TRABAJO-ARCADE\ArcadePROJECT\obj\Debug\net6.0\ArcadePROJECT.genruntimeconfig.cache
+C:\Users\scris\Desktop\ESTUDIOS\LENGUAJES\C#\ITLA_Projects\AREA-DE-TRABAJO-ARCADE\ArcadePROJECT\obj\Debug\net6.0\ref\ArcadePROJECT.dll
+D:\00-DOCUMENTOS GENERALES\ESTUDIOS\LENGUAJES\C#\ITLA_Projects\AREA-DE-TRABAJO-ARCADE\ArcadePROJECT\bin\Debug\net6.0\ArcadePROJECT.exe
+D:\00-DOCUMENTOS GENERALES\ESTUDIOS\LENGUAJES\C#\ITLA_Projects\AREA-DE-TRABAJO-ARCADE\ArcadePROJECT\bin\Debug\net6.0\ArcadePROJECT.deps.json
+D:\00-DOCUMENTOS GENERALES\ESTUDIOS\LENGUAJES\C#\ITLA_Projects\AREA-DE-TRABAJO-ARCADE\ArcadePROJECT\bin\Debug\net6.0\ArcadePROJECT.runtimeconfig.json
+D:\00-DOCUMENTOS GENERALES\ESTUDIOS\LENGUAJES\C#\ITLA_Projects\AREA-DE-TRABAJO-ARCADE\ArcadePROJECT\bin\Debug\net6.0\ArcadePROJECT.dll
+D:\00-DOCUMENTOS GENERALES\ESTUDIOS\LENGUAJES\C#\ITLA_Projects\AREA-DE-TRABAJO-ARCADE\ArcadePROJECT\bin\Debug\net6.0\ArcadePROJECT.pdb
+D:\00-DOCUMENTOS GENERALES\ESTUDIOS\LENGUAJES\C#\ITLA_Projects\AREA-DE-TRABAJO-ARCADE\ArcadePROJECT\obj\Debug\net6.0\ArcadePROJECT.csproj.AssemblyReference.cache
+D:\00-DOCUMENTOS GENERALES\ESTUDIOS\LENGUAJES\C#\ITLA_Projects\AREA-DE-TRABAJO-ARCADE\ArcadePROJECT\obj\Debug\net6.0\ArcadePROJECT.GeneratedMSBuildEditorConfig.editorconfig
+D:\00-DOCUMENTOS GENERALES\ESTUDIOS\LENGUAJES\C#\ITLA_Projects\AREA-DE-TRABAJO-ARCADE\ArcadePROJECT\obj\Debug\net6.0\ArcadePROJECT.AssemblyInfoInputs.cache
+D:\00-DOCUMENTOS GENERALES\ESTUDIOS\LENGUAJES\C#\ITLA_Projects\AREA-DE-TRABAJO-ARCADE\ArcadePROJECT\obj\Debug\net6.0\ArcadePROJECT.AssemblyInfo.cs
+D:\00-DOCUMENTOS GENERALES\ESTUDIOS\LENGUAJES\C#\ITLA_Projects\AREA-DE-TRABAJO-ARCADE\ArcadePROJECT\obj\Debug\net6.0\ArcadePROJECT.csproj.CoreCompileInputs.cache
+D:\00-DOCUMENTOS GENERALES\ESTUDIOS\LENGUAJES\C#\ITLA_Projects\AREA-DE-TRABAJO-ARCADE\ArcadePROJECT\obj\Debug\net6.0\ArcadePROJECT.dll
+D:\00-DOCUMENTOS GENERALES\ESTUDIOS\LENGUAJES\C#\ITLA_Projects\AREA-DE-TRABAJO-ARCADE\ArcadePROJECT\obj\Debug\net6.0\refint\ArcadePROJECT.dll
+D:\00-DOCUMENTOS GENERALES\ESTUDIOS\LENGUAJES\C#\ITLA_Projects\AREA-DE-TRABAJO-ARCADE\ArcadePROJECT\obj\Debug\net6.0\ArcadePROJECT.pdb
+D:\00-DOCUMENTOS GENERALES\ESTUDIOS\LENGUAJES\C#\ITLA_Projects\AREA-DE-TRABAJO-ARCADE\ArcadePROJECT\obj\Debug\net6.0\ArcadePROJECT.genruntimeconfig.cache
+D:\00-DOCUMENTOS GENERALES\ESTUDIOS\LENGUAJES\C#\ITLA_Projects\AREA-DE-TRABAJO-ARCADE\ArcadePROJECT\obj\Debug\net6.0\ref\ArcadePROJECT.dll
